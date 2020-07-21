@@ -1,0 +1,7 @@
+django-heroku==0.3.1
+Django>=3.0
+gunicorn==20.0.4
+ipython==7.16.1
+ipython-genutils==0.2.0
+psycopg2-binary>=2.8
+python-memcached>=1.59
